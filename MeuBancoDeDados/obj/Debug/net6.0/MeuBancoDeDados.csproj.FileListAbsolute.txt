@@ -44,3 +44,4 @@ C:\Users\gabri\OneDrive\Documentos\MeuBanco\MeuBancoDeDados\MeuBancoDeDados\obj\
 C:\Users\gabri\OneDrive\Documentos\MeuBanco\MeuBancoDeDados\MeuBancoDeDados\obj\Debug\net6.0\MeuBancoDeDados.pdb
 C:\Users\gabri\OneDrive\Documentos\MeuBanco\MeuBancoDeDados\MeuBancoDeDados\obj\Debug\net6.0\MeuBancoDeDados.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\Documentos\MeuBanco\MeuBancoDeDados\MeuBancoDeDados\obj\Debug\net6.0\ref\MeuBancoDeDados.dll
+C:\Users\gabri\OneDrive\Documentos\MeuBanco\MeuBancoDeDados\MeuBancoDeDados\bin\Debug\net6.0\Newtonsoft.Json.dll
